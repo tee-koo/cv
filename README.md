@@ -3,7 +3,7 @@
 # Hello, I'm TeeKoo
 <a href="https://www.linkedin.com/in/tero-korpi-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have worked in the IT industry for over 20 years and have seen technology and security challenges developing rapidly. For the last couple of years, I have focused on the security of the cloud environments, especially as Azure Cloud Engineer, where cyber security is not only a separate area, but is intertwined with everything-from configuration to observing and preventing threats.
+With over two decades of experience in the IT industry, I’ve observed the rapid evolution of both technology and the threat landscape. In recent years, my focus has been on cloud security, specifically within Microsoft Azure environments. As an Azure Cloud Engineer, I recognize that cybersecurity is deeply embedded across all layers of the cloud stack—from identity and access management, network security, and secure configuration, to continuous monitoring, threat detection, and incident response. Security is no longer a siloed domain but a fundamental aspect of every architectural and operational decision.
 
 ## Objective
 
