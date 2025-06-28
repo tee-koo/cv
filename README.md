@@ -3,8 +3,7 @@
 # Hello, I'm TeeKoo
 <a href="https://www.linkedin.com/in/tero-korpi-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have worked in the IT industry for over 20 years and have seen technology and security challenges developing rapidly. For the last couple of years, I have focused on the security of the cloud environments, especially as Azure Cloud Engineer, where cyber security is not only a separate area, but is intertwined with everything-from configuration to observing and preventing threats.
 
 ## Objective
 
