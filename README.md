@@ -22,7 +22,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-## Certifications
+## Microsoft Certifications
 <div>
 <img src="https://img.shields.io/badge/-AZ--900-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
