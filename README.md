@@ -39,7 +39,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Microsoft Certifications
 <div>
-<img src="https://img.shields.io/badge/-AZ--900-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-AZ--104-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
