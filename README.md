@@ -10,7 +10,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/juice-shop/juice-shop.svg)  
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://hub.docker.com/r/bkimminich/juice-shop)  
-![Test](https://img.shields.io/badge/Testataan-Vapaa_teksti)
+![Test](https://img.shields.io/badge/Testataan-Vapaa_teksti-blue)
 
 
 
