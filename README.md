@@ -1,6 +1,13 @@
 # Hello, I'm TeeKoo
 <a href="https://www.linkedin.com/in/tero-korpi-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+![CI/CD Pipeline](https://github.com/juice-shop/juice-shop/workflows/CI/CD%20Pipeline/badge.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/juice-shop/juice-shop/badge.svg?branch=develop)](https://coveralls.io/github/juice-shop/juice-shop?branch=develop)[![Cypress tests](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/3hrkhu/master&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/3hrkhu/runs)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/223/badge)](https://www.bestpractices.dev/projects/223)
+![GitHub stars](https://img.shields.io/github/stars/juice-shop/juice-shop.svg?label=GitHub%20%E2%98%85&style=flat)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
+
 With over two decades of experience in the IT industry, I’ve observed the rapid evolution of both technology and the threat landscape. In recent years, my focus has been on cloud security, specifically within Microsoft Azure environments. As an Azure Cloud Engineer, I recognize that cybersecurity is deeply embedded across all layers of the cloud stack—from identity and access management, network security, and secure configuration, to continuous monitoring, threat detection, and incident response. Security is no longer a siloed domain but a fundamental aspect of every architectural and operational decision.
 
 ## Objective
