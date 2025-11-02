@@ -45,7 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">
   <img src="https://img.shields.io/badge/-AZ--900-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</a>
+</a>  
     
 <img src="https://img.shields.io/badge/-AZ--900-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
