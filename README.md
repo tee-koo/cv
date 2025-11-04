@@ -40,18 +40,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Microsoft Certifications
-<div>
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/-AZ--900-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img src="https://img.shields.io/badge/-AZ--104-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/-AZ--204-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-AZ--104-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ--204-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ--400-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/"><img src="https://img.shields.io/badge/-AZ--400-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
-</div>  
   
 ## Projects
 - Detection Lab
