@@ -41,8 +41,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Microsoft Certifications
 <div>
-    
-<img src="https://img.shields.io/badge/-AZ--900-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 <img src="https://img.shields.io/badge/-AZ--104-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-AZ--204-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-AZ--400-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" />
