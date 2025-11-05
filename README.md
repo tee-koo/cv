@@ -1,7 +1,7 @@
 # Hello, I'm TeeKoo
 <a href="https://www.linkedin.com/in/tero-korpi-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Test](https://img.shields.io/badge/IT_Career-_20+_years-blue)&nbsp; ![Test](https://img.shields.io/badge/Azure_Certs-_4-blue)
+![Test](https://img.shields.io/badge/IT_Career-_20+_years-blue)&nbsp; ![Test](https://img.shields.io/badge/Azure_Cloud_Engineer-_Security-blue)&nbsp; ![Test](https://img.shields.io/badge/IT_Career-_20+_years-blue)
 
 With over two decades of experience in the IT industry, I’ve observed the rapid evolution of both technology and the threat landscape. In recent years, my focus has been on cloud security, specifically within Microsoft Azure environments. As an Azure Cloud Engineer, I recognize that cybersecurity is deeply embedded across all layers of the cloud stack—from identity and access management, network security, and secure configuration, to continuous monitoring, threat detection, and incident response. Security is no longer a siloed domain but a fundamental aspect of every architectural and operational decision.
 
