@@ -7,7 +7,7 @@ With over two decades of experience in the IT industry, I’ve observed the rapi
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+I have worked in the IT industry for over 20 years, the last few years as a cloud engineer, and recently my responsibilities have expanded to include cloud and information security specialist roles.
 
 ## Skills
 
