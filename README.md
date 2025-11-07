@@ -7,7 +7,7 @@ With over two decades of experience in the IT industry, I’ve observed the rapi
 
 ## Objective
 
-I have worked in the IT industry for over 20 years, the last few years as a cloud engineer, and recently my responsibilities have expanded to include cloud and information security specialist roles.
+I have worked in the IT industry for over 20 years, the last few years as a Azure cloud engineer, and recently my responsibilities have expanded to include cloud and information security specialist roles.
 
 ## Skills
 
