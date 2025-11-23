@@ -13,8 +13,8 @@ I have worked in the IT industry for over 20 years, the last few years as a Azur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Zero Trust Network Architecture          | <a href="[https://google.com](https://github.com/tee-koo/Azure-Projects/tree/main/Zero%20Trust%20Network%20Architecture
-)">Zero Trust Network</a>|
+| Zero Trust Network Architecture          | <a href="https://github.com/tee-koo/Azure-Projects/tree/main/Zero%20Trust%20Network%20Architecture
+">Zero Trust Network</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
