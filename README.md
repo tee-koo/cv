@@ -45,7 +45,7 @@ I have worked in the IT industry for over 20 years, the last few years as a Azur
 | <img src="https://img.shields.io/badge/-AZ--900-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" /> | Azure Fundamentals  | [AZ-900]( https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/ )  |
 | <img src="https://img.shields.io/badge/-AZ--104-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" /> | Azure Administrator | [AZ-104]( https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/ ) |
 | <img src="https://img.shields.io/badge/-AZ--204-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" /> | Azure Developer     | [AZ-204]( https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/ )     |
-| <img src="https://img.shields.io/badge/-AZ--400-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" /> | Devops Engineer     | [AZ-400]( [https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/](https://learn.microsoft.com/api/credentials/share/en-us/TeroKorpi-3708/AE7E62B0E47EB3E?sharingId=FD662BBC61AF2211) )     |
+| <img src="https://img.shields.io/badge/-AZ--400-blue?&style=for-the-badge&logo=Microsoft&logoColor=white" /> | Devops Engineer     | [AZ-400](https://learn.microsoft.com/api/credentials/share/en-us/TeroKorpi-3708/AE7E62B0E47EB3E?sharingId=FD662BBC61AF2211)     |
 | []()                                                                                                         |                     |                                                                                               |
 
 
